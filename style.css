@@ -1,0 +1,28 @@
+body{
+   /*background-color: rgb(255, 152, 204) */
+}
+
+td, th{
+    border: 1px solid rgb(255, 145, 218)
+}
+
+table{
+    /* border-collapse: collapse; */
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    border: 5px solid rgb(255, 147, 206);
+
+}
+
+td:hover{
+    background-color: rgb(255, 182, 222); color: white;
+}
+
+th{
+    text-align: right; 
+}
+
+caption{
+    margin-bottom: 20px; background-color:
+}
